@@ -30,3 +30,14 @@ This is a **.NET 9 Web API** project for FusionSample, featuring JWT-based authe
 ```bash
 git clone https://github.com/rpatelwonderfulworld/FusionSampleApi.git
 cd FusionSampleApi/backend/FusionSample.Api
+
+### Configure JWT
+
+Set your JWT secret as an environment variable or in `appsettings.Development.json` (never commit real secrets):
+
+```json
+"Jwt": {
+  "Key": "<your_super_secret_key_here>",
+  "Issuer": "FusionSampleApi",
+  "Audience": "FusionSampleClient"
+}
