@@ -1,0 +1,7 @@
+C:\Users\ascho\Downloads\fusion-sample-final\blazor-client\obj\Release\net9.0\BlazorClient.csproj.AssemblyReference.cache
+C:\Users\ascho\Downloads\fusion-sample-final\blazor-client\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\ascho\Downloads\fusion-sample-final\blazor-client\obj\Release\net9.0\BlazorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascho\Downloads\fusion-sample-final\blazor-client\obj\Release\net9.0\BlazorClient.AssemblyInfoInputs.cache
+C:\Users\ascho\Downloads\fusion-sample-final\blazor-client\obj\Release\net9.0\BlazorClient.AssemblyInfo.cs
+C:\Users\ascho\Downloads\fusion-sample-final\blazor-client\obj\Release\net9.0\BlazorClient.csproj.CoreCompileInputs.cache
+C:\Users\ascho\Downloads\fusion-sample-final\blazor-client\obj\Release\net9.0\BlazorClient.MvcApplicationPartsAssemblyInfo.cache
