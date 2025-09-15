@@ -1,0 +1,17 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.vs/
+
+# Rider/IDE files
+.idea/
+
+# Secrets / local settings
+appsettings.Development.json
+*.env
+
+# Logs
+*.log
