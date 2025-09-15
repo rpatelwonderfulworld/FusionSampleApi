@@ -1,10 +1,32 @@
+# FusionSample API
 
-# Fusion Sample - Final
+This is a **.NET 9 Web API** project for FusionSample, featuring JWT-based authentication and Swagger documentation.
 
-This project includes:
-- Backend ASP.NET Core API with JWT, EF Core (SQLite), Middleware, DI, Swagger
-- React frontend (Vite) and Blazor WebAssembly client calling the same API
-- Unit tests (xUnit) for service and controller layer
-- Instructions to publish Blazor into API wwwroot so API serves it directly
+---
 
-See the README sections in the repo for run commands.
+## Features
+
+- **JWT Authentication** (HS256) for secure endpoints
+- Login endpoint `/api/Auth/login` to generate access tokens
+- Example secured endpoints with `[Authorize]`
+- Swagger UI for API exploration
+- Clean architecture with Controllers and Middleware
+- Error handling via custom middleware
+
+---
+
+## Prerequisites
+
+- [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
+- Git
+- (Optional) Visual Studio 2022 or VS Code
+
+---
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/rpatelwonderfulworld/FusionSampleApi.git
+cd FusionSampleApi/backend/FusionSample.Api
